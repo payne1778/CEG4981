@@ -1,0 +1,7 @@
+{
+    "clangd.path": "/home/payne1778/.platformio/packages/tool-clangd-esp/bin/clangd",
+    "clangd.arguments": [
+        "--compile-commands-dir=/home/payne1778/Repos/CEG4981/.cache/clangd",
+        "--query-driver=/home/payne1778/.platformio/packages/toolchain-*/bin/*,/home/payne1778/.platformio/packages/tool-*/bin/*"
+    ]
+}
